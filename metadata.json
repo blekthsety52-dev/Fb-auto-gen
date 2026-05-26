@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Caption Generator",
+  "description": "An AI-powered Facebook caption generator to auto-generate engaging, localized, and high-converting post copy in various tones and languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
